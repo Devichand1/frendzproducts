@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { SHOW_MODAL, CLOSE_MODAL } from \"../actionTypes/authModal\";\nexport var showModal = function showModal() {\n  return {\n    type: SHOW_MODAL\n  };\n};\nexport var closeModal = function closeModal() {\n  return {\n    type: CLOSE_MODAL\n  };\n};","map":null,"metadata":{},"sourceType":"module"}

@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
 import { makeStyles } from "@material-ui/core/styles";
-import Layout from "./../../src/Layout";
+import Layout from "../Layout";
 import StarRatings from "react-star-ratings";
 import { Container, Card, CardContent, Box, Typography, Link, Button } from "@material-ui/core";
-import { getAllFeedback } from "./../../src/apis/global-api";
+import { getAllFeedback } from "../apis/global-api";
 
 import Router from "next/router";
 

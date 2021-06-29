@@ -1,17 +1,17 @@
 import React, { useEffect } from "react";
 import { makeStyles } from "@material-ui/core/styles";
-import Layout from "../src/Layout";
+import Layout from "../Layout";
 import { Box, Button, Container, Grid, Typography } from "@material-ui/core";
 import {
   commonStyles,
   desktopStyles,
   mobileStyles,
   TabStyles,
-} from "../src/styles";
+} from "../styles";
 import Card from "@material-ui/core/Card";
 import CardActions from "@material-ui/core/CardActions";
 import CardContent from "@material-ui/core/CardContent";
-import { sendVerifyEmail } from "../src/apis/global-api";
+import { sendVerifyEmail } from "../apis/global-api";
 import { useSelector } from "react-redux";
 import { useRouter } from "next/router";
 

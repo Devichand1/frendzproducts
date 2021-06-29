@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const FETCH_DIALOGS = \"FETCH_DIALOGS\";\nexport const ADD_DIALOG = \"ADD_DIALOG\";\nexport const SORT_DIALOGS = \"SORT_DIALOGS\";\nexport const UPDATE_DIALOG = \"UPDATE_DIALOG\";\nexport const DELETE_DIALOG = \"DELETE_DIALOG\";","map":null,"metadata":{},"sourceType":"module"}

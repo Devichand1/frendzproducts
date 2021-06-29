@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const SET_MESSAGES = \"SET_MESSAGES\";\nexport const PUSH_MESSAGE = \"PUSH_MESSAGE\";\nexport const DELETE_ALL_MESSAGES = \"DELETE_ALL_MESSAGES\";\nexport const LAZY_FETCH_MESSAGES = \"LAZY_FETCH_MESSAGES\";\nexport const UPDATE_MESSAGES = \"UPDATE_MESSAGES\";","map":null,"metadata":{},"sourceType":"module"}

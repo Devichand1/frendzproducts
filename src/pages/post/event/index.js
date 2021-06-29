@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { useRouter } from "next/router";
 import { useSelector } from "react-redux";
 
-import NewEvent from "../../../src/containers/newEvent";
+import NewEvent from "../../../containers/newEvent";
 
 const AddEventPage = () => {
   const router = useRouter();

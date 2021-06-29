@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { makeStyles } from "@material-ui/core/styles";
-import Layout from "./../../src/Layout";
-import Accordian from "./../../src/components/Accordian";
+import Layout from "../Layout";
+import Accordian from "../components/Accordian";
 import { Backdrop, Box, Button, Container, Grid, Typography } from "@material-ui/core";
 import CircularProgress from "@material-ui/core/CircularProgress";
 import StickyBox from "react-sticky-box";
@@ -12,11 +12,11 @@ import {
   desktopStyles,
   mobileStyles,
   TabStyles,
-} from "./../../src/styles";
-import { getAllBuyRequests } from "./../../src/apis/global-api";
+} from "../styles";
+import { getAllBuyRequests } from "../apis/global-api";
 import { useSelector } from "react-redux";
 import Router from "next/router";
-import Sidebar from "./../../src/components/Sidebar";
+import Sidebar from "../components/Sidebar";
 BuyRequest.getInitialProps = ({ query }) => {
   return { query };
 };

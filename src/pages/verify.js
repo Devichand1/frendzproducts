@@ -1,22 +1,22 @@
 import React, { useState, useEffect } from "react";
 import { makeStyles } from "@material-ui/core/styles";
-import Layout from "../src/Layout";
+import Layout from "../Layout";
 import { Box, Button, Container, Grid, Typography } from "@material-ui/core";
 import {
   commonStyles,
   desktopStyles,
   mobileStyles,
   TabStyles,
-} from "../src/styles";
+} from "../styles";
 import Card from "@material-ui/core/Card";
 import CardActions from "@material-ui/core/CardActions";
 import CardContent from "@material-ui/core/CardContent";
 import MuiAlert from "@material-ui/lab/Alert";
 import Backdrop from "@material-ui/core/Backdrop";
 import CircularProgress from "@material-ui/core/CircularProgress";
-import { setMessages } from "../src/redux/actions/messages";
+import { setMessages } from "../redux/actions/messages";
 import Router from "next/router";
-import { verifyEmail } from "../src/apis/auth-api";
+import { verifyEmail } from "../apis/auth-api";
 
 function Alert(props) {
   return <MuiAlert elevation={6} variant="filled" {...props} />;

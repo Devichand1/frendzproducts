@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import Profile from "../../src/containers/profile";
-import { getSeller } from "../../src/apis/global-api";
+import Profile from "../../containers/profile";
+import { getSeller } from "../../apis/global-api";
 
 const ProfilePage = ({ query }) => {
   const [loading, setloading] = useState(true);

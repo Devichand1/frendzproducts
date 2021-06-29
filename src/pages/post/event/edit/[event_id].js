@@ -2,8 +2,8 @@ import React, {useState, useEffect } from "react";
 import { useRouter } from "next/router";
 import { useSelector } from "react-redux";
 
-import NewEvent from "../../../../src/containers/newEvent";
-import { getEvent } from "../../../../src/apis/global-api";
+import NewEvent from "../../../../containers/newEvent";
+import { getEvent } from "../../../../apis/global-api";
 
 const EditEventPage = ({ query }) => {
   const router = useRouter();

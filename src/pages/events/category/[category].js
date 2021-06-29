@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import Products from "../../../src/containers/products";
-import { getProducts } from "../../../src/apis/global-api";
+import Products from "../../../containers/products";
+import { getProducts } from "../../../apis/global-api";
 
 const CategoryProductsPage = ({ query }) => {
   const [loading, setloading] = useState(false);

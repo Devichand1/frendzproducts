@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var AUTHENTICATED = \"AUTHENTICATED\";\nexport var UPDATE_DEVICE_TOKEN = \"UPDATE_DEVICE_TOKEN\";\nexport var UNAUTHENTICATED = \"UNAUTHENTICATED\";","map":null,"metadata":{},"sourceType":"module"}

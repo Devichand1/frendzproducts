@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Events from "./../../src/containers/events";
+import Events from "../containers/events";
 import fetch from "node-fetch";
 
 function EventsPage({ query }) {

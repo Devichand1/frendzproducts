@@ -1,8 +1,8 @@
 import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
-import Layout from "../src/Layout";
+import Layout from "../Layout";
 import { Box, Button, Container, Grid, Typography } from '@material-ui/core';
-import { commonStyles, desktopStyles, mobileStyles, TabStyles } from '../src/styles';
+import { commonStyles, desktopStyles, mobileStyles, TabStyles } from '../styles';
 
 const useStyles = makeStyles(theme => ({
   ...commonStyles,

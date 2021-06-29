@@ -2,8 +2,8 @@ import React, {useState, useEffect } from "react";
 import { useRouter } from "next/router";
 import { useSelector } from "react-redux";
 
-import Post from "../../../src/containers/post";
-import { getProduct } from "../../../src/apis/global-api";
+import Post from "../../../containers/post";
+import { getProduct } from "../../../apis/global-api";
 
 const PostPage = ({ query }) => {
   const router = useRouter();

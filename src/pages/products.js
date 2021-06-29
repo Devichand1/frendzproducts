@@ -1,12 +1,12 @@
 import React, { Component, useState, useEffect } from "react";
-import Products from "./../containers/products";
+import Products from "../containers/products";
 import fetch from "node-fetch";
 import { useSelector } from "react-redux";
-import Modal from "./../components/Modal";
+import Modal from "../components/Modal";
 import {
   SELECTED_FILTER_RESET,
   SELECTED_FILTER_UNIVERSITY,
-} from "./../constants";
+} from "../constants";
 
 function ProductsPage({ query }) {
   const user = useSelector((state) => state.auth_user.user);

@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { useRouter } from "next/router";
 import { useSelector } from "react-redux";
 
-import Profile from "../../src/containers/profile";
+import Profile from "../../containers/profile";
 
 const ProfileRequestsPage = () => {
     const router = useRouter();

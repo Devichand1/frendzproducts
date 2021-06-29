@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { SELECTED_DIALOG, UN_SELECTED_DIALOG } from \"../actionTypes/selectedDialog\";\nexport const selectedDialog = dialog => ({\n  type: SELECTED_DIALOG,\n  dialog\n});\nexport const unSelectedDialog = dialog => ({\n  type: UN_SELECTED_DIALOG,\n  dialog\n});","map":null,"metadata":{},"sourceType":"module"}

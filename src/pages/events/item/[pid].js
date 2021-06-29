@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { makeStyles } from "@material-ui/core/styles";
-import Layout from "../../../src/Layout";
+import Layout from "../../../Layout";
 import {
   Box,
   Button,
@@ -14,20 +14,20 @@ import Breadcrumbs from "@material-ui/core/Breadcrumbs";
 import Link from "@material-ui/core/Link";
 import NavigateNextIcon from "@material-ui/icons/NavigateNext";
 import useMediaQuery from "@material-ui/core/useMediaQuery";
-import Advertisement from "../../../src/components/Advertisement";
-import EventDetail from "../../../src/components/EventDetail";
-import Testimonial from "../../../src/components/Testimonial";
+import Advertisement from "../../../components/Advertisement";
+import EventDetail from "../../../components/EventDetail";
+import Testimonial from "../../../components/Testimonial";
 import {
   TestimonialData,
-} from "../../../src/utils";
+} from "../../../utils.js";
 import {
   commonStyles,
   desktopStyles,
   mobileStyles,
   TabStyles,
-} from "../../../src/styles";
+} from "../../../styles";
 import { useRouter } from "next/router";
-import { getEvent, getAllFeedback } from "../../../src/apis/global-api";
+import { getEvent, getAllFeedback } from "../../../apis/global-api";
 import Backdrop from "@material-ui/core/Backdrop";
 import CircularProgress from "@material-ui/core/CircularProgress";
 const fetch = require("node-fetch");

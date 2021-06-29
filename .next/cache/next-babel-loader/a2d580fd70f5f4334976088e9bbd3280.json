@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { FETCH_USERS, ADD_USERS } from \"../actionTypes/users\";\nexport var fetchUsers = function fetchUsers(users) {\n  return {\n    type: FETCH_USERS,\n    users: users\n  };\n};\nexport var addUsers = function addUsers(users) {\n  return {\n    type: ADD_USERS,\n    users: users\n  };\n};","map":null,"metadata":{},"sourceType":"module"}

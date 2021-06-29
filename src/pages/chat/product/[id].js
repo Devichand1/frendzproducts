@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
-import Layout from "../../../src/Layout";
-import Chat from "../../../src/components/Chat";
+import Layout from "../../../Layout";
+import Chat from "../../../components/Chat";
 import { useSelector } from "react-redux";
 import { useRouter } from "next/router";
 

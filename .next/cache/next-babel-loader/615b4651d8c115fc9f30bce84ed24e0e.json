@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { SHOW_MODAL, CLOSE_MODAL } from \"../actionTypes/authModal\";\nexport const showModal = () => ({\n  type: SHOW_MODAL\n});\nexport const closeModal = () => ({\n  type: CLOSE_MODAL\n});","map":null,"metadata":{},"sourceType":"module"}

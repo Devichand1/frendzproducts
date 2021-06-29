@@ -2,8 +2,8 @@ import React, {useState, useEffect } from "react";
 import { useRouter } from "next/router";
 import { useSelector } from "react-redux";
 
-import NewRequest from "../../../../src/containers/newRequest";
-import { getRequest } from "../../../../src/apis/global-api";
+import NewRequest from "../../../../containers/newRequest";
+import { getRequest } from "../../../../apis/global-api";
 
 const EditRequestPage = ({ query }) => {
   const router = useRouter();

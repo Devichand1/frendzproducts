@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { CHAT_UNREAD, CHAT_UNREAD_RESET } from \"../actionTypes/chatUnread\";\nexport const chatUnreadCount = count => ({\n  type: CHAT_UNREAD,\n  count: count\n});\nexport const chatUnreadReset = () => ({\n  type: CHAT_UNREAD_RESET\n});","map":null,"metadata":{},"sourceType":"module"}

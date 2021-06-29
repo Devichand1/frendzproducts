@@ -1,6 +1,6 @@
 import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
-import Layout from "../src/Layout";
+import Layout from "../Layout";
 import {
   Box,
   Button,
@@ -11,20 +11,20 @@ import {
   Typography,
 } from "@material-ui/core";
 import useMediaQuery from "@material-ui/core/useMediaQuery";
-import EditProfile from "../src/components/EditProfile";
-import SellerProfile from "../src/components/SellerProfile";
-import Modal from "../src/components/Modal";
+import EditProfile from "../components/EditProfile";
+import SellerProfile from "../components/SellerProfile";
+import Modal from "../components/Modal";
 import {
   ProductCardsData,
   OurConceptData,
   TestimonialData,
-} from "../src/utils";
+} from "../utils";
 import {
   commonStyles,
   desktopStyles,
   mobileStyles,
   TabStyles,
-} from "../src/styles";
+} from "../styles";
 import { useRouter } from "next/router";
 
 const useStyles = makeStyles((theme) => ({

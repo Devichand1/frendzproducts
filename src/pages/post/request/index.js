@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { useRouter } from "next/router";
 import { useSelector } from "react-redux";
 
-import NewRequest from "../../../src/containers/newRequest";
+import NewRequest from "../../../containers/newRequest";
 
 const AddRequestPage = () => {
   const router = useRouter();

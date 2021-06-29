@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { CHAT_CONNECTED, CHAT_RESET } from \"../actionTypes/chatConnected\";\nexport default function (state = false, action) {\n  switch (action.type) {\n    case CHAT_CONNECTED:\n      return true;\n\n    case CHAT_RESET:\n      return false;\n\n    default:\n      return false;\n  }\n}","map":null,"metadata":{},"sourceType":"module"}

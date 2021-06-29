@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from \"react\";\n\nconst VerifyEmail = () => {\n  return __jsx(\"div\", null, \"sds\");\n};\n\nexport default VerifyEmail;","map":null,"metadata":{},"sourceType":"module"}

@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { useRouter } from "next/router";
 import { useSelector } from "react-redux";
 
-import Post from "../../src/containers/post";
+import Post from "../../containers/post";
 
 const PostPage = () => {
   const router = useRouter();

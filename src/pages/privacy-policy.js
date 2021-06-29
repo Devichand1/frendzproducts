@@ -1,13 +1,13 @@
 import React, { useState } from 'react';
 import { makeStyles } from '@material-ui/core/styles';
-import Layout from './../../src/Layout';
+import Layout from '../Layout';
 import { Box, Container, Grid, Typography } from '@material-ui/core';
 import {
   commonStyles,
   desktopStyles,
   mobileStyles,
   TabStyles,
-} from './../../src/styles';
+} from '../styles';
 
 const useStyles = makeStyles((theme) => ({
   ...commonStyles,

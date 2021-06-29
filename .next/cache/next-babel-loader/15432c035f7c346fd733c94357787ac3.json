@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { CHAT_UNREAD_RESET, CHAT_UNREAD } from \"../actionTypes/chatUnread\";\nexport default function (state = 0, action) {\n  switch (action.type) {\n    case CHAT_UNREAD:\n      return parseInt(action.count);\n\n    case CHAT_UNREAD_RESET:\n      return 0;\n\n    default:\n      return 0;\n  }\n}","map":null,"metadata":{},"sourceType":"module"}

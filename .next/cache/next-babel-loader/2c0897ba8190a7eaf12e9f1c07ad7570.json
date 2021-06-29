@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var FETCH_DIALOGS = \"FETCH_DIALOGS\";\nexport var ADD_DIALOG = \"ADD_DIALOG\";\nexport var SORT_DIALOGS = \"SORT_DIALOGS\";\nexport var UPDATE_DIALOG = \"UPDATE_DIALOG\";\nexport var DELETE_DIALOG = \"DELETE_DIALOG\";","map":null,"metadata":{},"sourceType":"module"}

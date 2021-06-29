@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const BTN_TYPE = {\n  DIALOG: 1,\n  CONTACTS: 2,\n  CREATE_GROUP: 3\n};\nexport const DIALOG_TYPE = {\n  PRIVATE: 3,\n  GROUP: 2,\n  BROADCAST: 1,\n  PUBLIC_CHANNEL: 4\n};","map":null,"metadata":{},"sourceType":"module"}

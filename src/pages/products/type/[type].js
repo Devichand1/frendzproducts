@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
-import Products from "../../../src/containers/products";
-import Modal from "../../../src/components/Modal";
-import { getProducts } from "../../../src/apis/global-api";
+import Products from "../../../containers/products";
+import Modal from "../../../components/Modal";
+import { getProducts } from "../../../apis/global-api";
 
 const ItemProductsPage = ({ query }) => {
   const [loading, setloading] = useState(false);

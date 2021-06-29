@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { makeStyles } from "@material-ui/core/styles";
-import Layout from "./../../../src/Layout";
+import Layout from "../../Layout";
 import {
   Card,
   CardContent,
@@ -16,10 +16,10 @@ import SubtitlesIcon from "@material-ui/icons/Subtitles";
 import DetailsIcon from "@material-ui/icons/Details";
 import Backdrop from "@material-ui/core/Backdrop";
 import CircularProgress from "@material-ui/core/CircularProgress";
-import { sendFeedbackMessage } from "./../../../src/apis/global-api";
+import { sendFeedbackMessage } from "../../apis/global-api";
 import Snackbar from "@material-ui/core/Snackbar";
 import MuiAlert from "@material-ui/lab/Alert";
-import { isEmail, isPhone } from "./../../../src/Utils/helpers";
+import { isEmail, isPhone } from "../../Utils/helpers";
 function Alert(props) {
   return <MuiAlert elevation={6} variant="filled" {...props} />;
 }
