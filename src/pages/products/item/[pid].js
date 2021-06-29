@@ -21,7 +21,7 @@ import {
   ProductCardsData,
   OurConceptData,
   TestimonialData,
-} from "../../../Utils";
+} from "../../../utils.js";
 import {
   commonStyles,
   desktopStyles,
