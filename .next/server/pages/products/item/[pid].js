@@ -4136,6 +4136,369 @@ module.exports = require("@material-ui/core/styles");
 
 /***/ }),
 
+/***/ "Al62":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return IconCardsData; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return EventIconCardsData; });
+/* unused harmony export ProductCardsData */
+/* unused harmony export EventCardsData */
+/* unused harmony export OurConceptData */
+/* unused harmony export TestimonialData */
+/* harmony import */ var _public_static_images_bike_png__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("Wx3k");
+/* harmony import */ var _public_static_images_bike_png__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_bike_png__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _public_static_images_book_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__("YwBl");
+/* harmony import */ var _public_static_images_book_png__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_book_png__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _public_static_images_sports_and_competition_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__("5m4K");
+/* harmony import */ var _public_static_images_sports_and_competition_png__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_sports_and_competition_png__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _public_static_images_shopping_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__("jGZ7");
+/* harmony import */ var _public_static_images_shopping_png__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_shopping_png__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _public_static_images_gym_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__("8nC3");
+/* harmony import */ var _public_static_images_gym_png__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_gym_png__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _public_static_images_stationary_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__("sTci");
+/* harmony import */ var _public_static_images_stationary_png__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_stationary_png__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _public_static_images_shop_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__("swSV");
+/* harmony import */ var _public_static_images_shop_png__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_shop_png__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _public_static_images_technical_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__("pMJ+");
+/* harmony import */ var _public_static_images_technical_png__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_technical_png__WEBPACK_IMPORTED_MODULE_7__);
+/* harmony import */ var _public_static_images_enterprenurship_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__("hqUj");
+/* harmony import */ var _public_static_images_enterprenurship_png__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_enterprenurship_png__WEBPACK_IMPORTED_MODULE_8__);
+/* harmony import */ var _public_static_images_culture_png__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__("Lvft");
+/* harmony import */ var _public_static_images_culture_png__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_culture_png__WEBPACK_IMPORTED_MODULE_9__);
+/* harmony import */ var _public_static_images_library_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__("EXd6");
+/* harmony import */ var _public_static_images_library_png__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_library_png__WEBPACK_IMPORTED_MODULE_10__);
+/* harmony import */ var _public_static_images_product_png__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__("i9BY");
+/* harmony import */ var _public_static_images_product_png__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_product_png__WEBPACK_IMPORTED_MODULE_11__);
+/* harmony import */ var _public_static_images_event_png__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__("GuGM");
+/* harmony import */ var _public_static_images_event_png__WEBPACK_IMPORTED_MODULE_12___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_event_png__WEBPACK_IMPORTED_MODULE_12__);
+/* harmony import */ var _public_static_images_video1_png__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__("AvHu");
+/* harmony import */ var _public_static_images_video1_png__WEBPACK_IMPORTED_MODULE_13___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_video1_png__WEBPACK_IMPORTED_MODULE_13__);
+/* harmony import */ var _public_static_images_video2_png__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__("NPw0");
+/* harmony import */ var _public_static_images_video2_png__WEBPACK_IMPORTED_MODULE_14___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_video2_png__WEBPACK_IMPORTED_MODULE_14__);
+/* harmony import */ var _public_static_images_sports_png__WEBPACK_IMPORTED_MODULE_15__ = __webpack_require__("c+VH");
+/* harmony import */ var _public_static_images_sports_png__WEBPACK_IMPORTED_MODULE_15___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_sports_png__WEBPACK_IMPORTED_MODULE_15__);
+/* harmony import */ var _public_static_images_profile_png__WEBPACK_IMPORTED_MODULE_16__ = __webpack_require__("8P9W");
+/* harmony import */ var _public_static_images_profile_png__WEBPACK_IMPORTED_MODULE_16___default = /*#__PURE__*/__webpack_require__.n(_public_static_images_profile_png__WEBPACK_IMPORTED_MODULE_16__);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const IconCardsData = [{
+  id: 1,
+  title: "Vehicle",
+  image: {
+    url: _public_static_images_bike_png__WEBPACK_IMPORTED_MODULE_0___default.a
+  },
+  slug: "/products?m_cat=vehicles"
+}, {
+  id: 2,
+  title: "Books",
+  image: {
+    url: _public_static_images_book_png__WEBPACK_IMPORTED_MODULE_1___default.a
+  },
+  slug: "/products?m_cat=books"
+}, {
+  id: 3,
+  title: "Gadgets",
+  image: {
+    url: _public_static_images_sports_and_competition_png__WEBPACK_IMPORTED_MODULE_2___default.a
+  },
+  slug: "/products?m_cat=gadgets"
+}, {
+  id: 4,
+  title: "Hostel Items",
+  image: {
+    url: _public_static_images_shopping_png__WEBPACK_IMPORTED_MODULE_3___default.a
+  },
+  slug: "/products?m_cat=hostel-items"
+}, {
+  id: 5,
+  title: "Sports & Gym",
+  image: {
+    url: _public_static_images_gym_png__WEBPACK_IMPORTED_MODULE_4___default.a
+  },
+  slug: "/products?m_cat=sports-gym"
+}, {
+  id: 6,
+  title: "Stationary",
+  image: {
+    url: _public_static_images_stationary_png__WEBPACK_IMPORTED_MODULE_5___default.a
+  },
+  slug: "/products?m_cat=stationary"
+}, {
+  id: 7,
+  title: "Others",
+  image: {
+    url: _public_static_images_shop_png__WEBPACK_IMPORTED_MODULE_6___default.a
+  },
+  slug: "/products"
+}];
+const EventIconCardsData = [{
+  id: "EventIcon1",
+  title: "Technical",
+  image: {
+    url: _public_static_images_technical_png__WEBPACK_IMPORTED_MODULE_7___default.a
+  },
+  slug: "/events?m_cat=technical"
+}, {
+  id: "EventIcon2",
+  title: "Entrepreneurship",
+  image: {
+    url: _public_static_images_enterprenurship_png__WEBPACK_IMPORTED_MODULE_8___default.a
+  },
+  slug: "/events?m_cat=entrepreneurship"
+}, {
+  id: "EventIcon3",
+  title: "Culture",
+  image: {
+    url: _public_static_images_culture_png__WEBPACK_IMPORTED_MODULE_9___default.a
+  },
+  slug: "/events?m_cat=culture"
+}, {
+  id: "EventIcon4",
+  title: "Sports Events",
+  image: {
+    url: _public_static_images_sports_png__WEBPACK_IMPORTED_MODULE_15___default.a
+  },
+  slug: "/events?m_cat=sports"
+}, {
+  id: "EventIcon5",
+  title: "Education Events",
+  image: {
+    url: _public_static_images_book_png__WEBPACK_IMPORTED_MODULE_1___default.a
+  },
+  slug: "/events?m_cat=books"
+}, {
+  id: "EventIcon6",
+  title: "Library",
+  image: {
+    url: _public_static_images_library_png__WEBPACK_IMPORTED_MODULE_10___default.a
+  },
+  slug: "/events?m_cat=library"
+}];
+const ProductCardsData = [{
+  id: "product1",
+  title: "Immortal Reign",
+  image: {
+    url: _public_static_images_product_png__WEBPACK_IMPORTED_MODULE_11___default.a
+  },
+  collegeName: "Gulzar College of Arts",
+  excerpt: "Lorem ipsum dolor sit consectetuer..................",
+  price: "$15",
+  date: "April 14",
+  categories: [],
+  saved: true
+}, {
+  id: "product2",
+  title: "Immortal Reign",
+  image: {
+    url: _public_static_images_product_png__WEBPACK_IMPORTED_MODULE_11___default.a
+  },
+  collegeName: "Gulzar College of Arts",
+  excerpt: "Lorem ipsum dolor sit consectetuer..................",
+  price: "$15",
+  date: "April 14",
+  categories: [],
+  saved: false
+}, {
+  id: "product3",
+  title: "Immortal Reign",
+  image: {
+    url: _public_static_images_product_png__WEBPACK_IMPORTED_MODULE_11___default.a
+  },
+  collegeName: "Gulzar College of Arts",
+  excerpt: "Lorem ipsum dolor sit consectetuer..................",
+  price: "$15",
+  date: "April 14",
+  categories: [],
+  saved: false
+}, {
+  id: "product4",
+  title: "Immortal Reign",
+  image: {
+    url: _public_static_images_product_png__WEBPACK_IMPORTED_MODULE_11___default.a
+  },
+  collegeName: "Gulzar College of Arts",
+  excerpt: "Lorem ipsum dolor sit consectetuer..................",
+  price: "$15",
+  date: "April 14",
+  categories: [],
+  saved: false
+}, {
+  id: "product5",
+  title: "Immortal Reign",
+  image: {
+    url: _public_static_images_product_png__WEBPACK_IMPORTED_MODULE_11___default.a
+  },
+  collegeName: "Gulzar College of Arts",
+  excerpt: "Lorem ipsum dolor sit consectetuer..................",
+  price: "$15",
+  date: "April 14",
+  categories: [],
+  saved: false
+}, {
+  id: "product6",
+  title: "Immortal Reign",
+  image: {
+    url: _public_static_images_product_png__WEBPACK_IMPORTED_MODULE_11___default.a
+  },
+  collegeName: "Gulzar College of Arts",
+  excerpt: "Lorem ipsum dolor sit consectetuer..................",
+  price: "$15",
+  date: "April 14",
+  categories: [],
+  saved: false
+}];
+const EventCardsData = [{
+  id: "event1",
+  title: "Immortal Reign",
+  image: {
+    url: _public_static_images_event_png__WEBPACK_IMPORTED_MODULE_12___default.a
+  },
+  collegeName: "Gulzar College of Arts",
+  excerpt: "Lorem ipsum dolor sit consectetuer..................",
+  price: "$15",
+  date: "April 14",
+  categories: [],
+  saved: true
+}, {
+  id: "event2",
+  title: "Immortal Reign",
+  image: {
+    url: _public_static_images_event_png__WEBPACK_IMPORTED_MODULE_12___default.a
+  },
+  collegeName: "Gulzar College of Arts",
+  excerpt: "Lorem ipsum dolor sit consectetuer..................",
+  price: "$15",
+  date: "April 14",
+  categories: [],
+  saved: false
+}, {
+  id: "event3",
+  title: "Immortal Reign",
+  image: {
+    url: _public_static_images_event_png__WEBPACK_IMPORTED_MODULE_12___default.a
+  },
+  collegeName: "Gulzar College of Arts",
+  excerpt: "Lorem ipsum dolor sit consectetuer..................",
+  price: "$15",
+  date: "April 14",
+  categories: [],
+  saved: false
+}, {
+  id: "event4",
+  title: "Immortal Reign",
+  image: {
+    url: _public_static_images_event_png__WEBPACK_IMPORTED_MODULE_12___default.a
+  },
+  collegeName: "Gulzar College of Arts",
+  excerpt: "Lorem ipsum dolor sit consectetuer..................",
+  price: "$15",
+  date: "2020-01-06 17:06:41",
+  categories: [],
+  saved: false
+}, {
+  id: "event5",
+  title: "Immortal Reign",
+  image: {
+    url: _public_static_images_event_png__WEBPACK_IMPORTED_MODULE_12___default.a
+  },
+  collegeName: "Gulzar College of Arts",
+  excerpt: "Lorem ipsum dolor sit consectetuer..................",
+  price: "$15",
+  date: "2020-01-06 17:06:41",
+  categories: [],
+  saved: false
+}, {
+  id: "event6",
+  title: "Immortal Reign",
+  image: {
+    url: _public_static_images_event_png__WEBPACK_IMPORTED_MODULE_12___default.a
+  },
+  collegeName: "Gulzar College of Arts",
+  excerpt: "Lorem ipsum dolor sit consectetuer..................",
+  price: "$15",
+  date: "2020-01-06 17:06:41",
+  categories: [],
+  saved: false
+}];
+const OurConceptData = [{
+  id: "concept1",
+  title: "Provocative content for an accounting",
+  image: {
+    url: _public_static_images_video1_png__WEBPACK_IMPORTED_MODULE_13___default.a
+  },
+  video: {
+    url: "https://www.youtube.com/embed/rUWxSEwctFU"
+  },
+  excerpt: "Provocative content for an accounting firm may include six reasons you’re paying too much in tax; why the top line is more important than the bottom line; and how to get your clients to offer to pay you more than you ask.",
+  link: {
+    url: "/coming-soon",
+    name: "Learn More"
+  }
+}, {
+  id: "concept2",
+  title: "Provocative content for an accounting",
+  image: {
+    url: _public_static_images_video2_png__WEBPACK_IMPORTED_MODULE_14___default.a
+  },
+  excerpt: "Provocative content for an accounting firm may include six reasons you’re paying too much in tax; why the top line is more important than the bottom line; and how to get your clients to offer to pay you more than you ask.",
+  collegeName: "Gulzar College of Arts",
+  link: {
+    url: "/static/pdf.pdf",
+    name: "Download Pdf"
+  }
+}];
+const TestimonialData = [{
+  id: "review1",
+  name: "JANE JOHNSONS",
+  image: {
+    url: _public_static_images_profile_png__WEBPACK_IMPORTED_MODULE_16___default.a
+  },
+  rating: 5,
+  review: "Lorem ipsum dolor sit amet, aretent consectetuer adipiscing elit Lorem ipsum dolor sit amet, aretent  consectetuer adipiscing elit. Lorem ipsum dolor sit amet, aretent consectetuer adipiscing elit Lorem ipsum dolor sit amet, aretent  consectetuer adipiscing elit"
+}, {
+  id: "review2",
+  name: "JANE JOHNSONS",
+  image: {
+    url: _public_static_images_profile_png__WEBPACK_IMPORTED_MODULE_16___default.a
+  },
+  rating: 5,
+  review: "Lorem ipsum dolor sit amet, aretent consectetuer adipiscing elit Lorem ipsum dolor sit amet, aretent  consectetuer adipiscing elit. Lorem ipsum dolor sit amet, aretent consectetuer adipiscing elit Lorem ipsum dolor sit amet, aretent  consectetuer adipiscing elit"
+}, {
+  id: "review3",
+  name: "JANE JOHNSONS",
+  image: {
+    url: _public_static_images_profile_png__WEBPACK_IMPORTED_MODULE_16___default.a
+  },
+  rating: 5,
+  review: "Lorem ipsum dolor sit amet, aretent consectetuer adipiscing elit Lorem ipsum dolor sit amet, aretent  consectetuer adipiscing elit. Lorem ipsum dolor sit amet, aretent consectetuer adipiscing elit Lorem ipsum dolor sit amet, aretent  consectetuer adipiscing elit"
+}, {
+  id: "review4",
+  name: "JANE JOHNSONS",
+  image: {
+    url: _public_static_images_profile_png__WEBPACK_IMPORTED_MODULE_16___default.a
+  },
+  rating: 5,
+  review: "Lorem ipsum dolor sit amet, aretent consectetuer adipiscing elit Lorem ipsum dolor sit amet, aretent  consectetuer adipiscing elit. Lorem ipsum dolor sit amet, aretent consectetuer adipiscing elit Lorem ipsum dolor sit amet, aretent  consectetuer adipiscing elit"
+}];
+
+/***/ }),
+
 /***/ "AroE":
 /***/ (function(module, exports) {
 
@@ -5572,391 +5935,9 @@ const ProductDetail = ({
 // EXTERNAL MODULE: ./src/components/Testimonial/index.js + 1 modules
 var Testimonial = __webpack_require__("eSM8");
 
-// EXTERNAL MODULE: ./src/public/static/images/bike.png
-var bike = __webpack_require__("Wx3k");
-var bike_default = /*#__PURE__*/__webpack_require__.n(bike);
+// EXTERNAL MODULE: ./src/utils.js
+var utils = __webpack_require__("Al62");
 
-// EXTERNAL MODULE: ./src/public/static/images/book.png
-var book = __webpack_require__("YwBl");
-var book_default = /*#__PURE__*/__webpack_require__.n(book);
-
-// EXTERNAL MODULE: ./src/public/static/images/sports-and-competition.png
-var sports_and_competition = __webpack_require__("5m4K");
-var sports_and_competition_default = /*#__PURE__*/__webpack_require__.n(sports_and_competition);
-
-// EXTERNAL MODULE: ./src/public/static/images/shopping.png
-var shopping = __webpack_require__("jGZ7");
-var shopping_default = /*#__PURE__*/__webpack_require__.n(shopping);
-
-// EXTERNAL MODULE: ./src/public/static/images/gym.png
-var gym = __webpack_require__("8nC3");
-var gym_default = /*#__PURE__*/__webpack_require__.n(gym);
-
-// EXTERNAL MODULE: ./src/public/static/images/stationary.png
-var stationary = __webpack_require__("sTci");
-var stationary_default = /*#__PURE__*/__webpack_require__.n(stationary);
-
-// EXTERNAL MODULE: ./src/public/static/images/shop.png
-var shop = __webpack_require__("swSV");
-var shop_default = /*#__PURE__*/__webpack_require__.n(shop);
-
-// EXTERNAL MODULE: ./src/public/static/images/technical.png
-var technical = __webpack_require__("pMJ+");
-var technical_default = /*#__PURE__*/__webpack_require__.n(technical);
-
-// EXTERNAL MODULE: ./src/public/static/images/enterprenurship.png
-var enterprenurship = __webpack_require__("hqUj");
-var enterprenurship_default = /*#__PURE__*/__webpack_require__.n(enterprenurship);
-
-// EXTERNAL MODULE: ./src/public/static/images/culture.png
-var culture = __webpack_require__("Lvft");
-var culture_default = /*#__PURE__*/__webpack_require__.n(culture);
-
-// EXTERNAL MODULE: ./src/public/static/images/library.png
-var library = __webpack_require__("EXd6");
-var library_default = /*#__PURE__*/__webpack_require__.n(library);
-
-// EXTERNAL MODULE: ./src/public/static/images/product.png
-var images_product = __webpack_require__("i9BY");
-var product_default = /*#__PURE__*/__webpack_require__.n(images_product);
-
-// EXTERNAL MODULE: ./src/public/static/images/event.png
-var images_event = __webpack_require__("GuGM");
-var event_default = /*#__PURE__*/__webpack_require__.n(images_event);
-
-// EXTERNAL MODULE: ./src/public/static/images/video1.png
-var video1 = __webpack_require__("AvHu");
-var video1_default = /*#__PURE__*/__webpack_require__.n(video1);
-
-// EXTERNAL MODULE: ./src/public/static/images/video2.png
-var video2 = __webpack_require__("NPw0");
-var video2_default = /*#__PURE__*/__webpack_require__.n(video2);
-
-// EXTERNAL MODULE: ./src/public/static/images/sports.png
-var sports = __webpack_require__("c+VH");
-var sports_default = /*#__PURE__*/__webpack_require__.n(sports);
-
-// EXTERNAL MODULE: ./src/public/static/images/profile.png
-var profile = __webpack_require__("8P9W");
-var profile_default = /*#__PURE__*/__webpack_require__.n(profile);
-
-// CONCATENATED MODULE: ./src/Utils.js
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-const IconCardsData = [{
-  id: 1,
-  title: "Vehicle",
-  image: {
-    url: bike_default.a
-  },
-  slug: "/products?m_cat=vehicles"
-}, {
-  id: 2,
-  title: "Books",
-  image: {
-    url: book_default.a
-  },
-  slug: "/products?m_cat=books"
-}, {
-  id: 3,
-  title: "Gadgets",
-  image: {
-    url: sports_and_competition_default.a
-  },
-  slug: "/products?m_cat=gadgets"
-}, {
-  id: 4,
-  title: "Hostel Items",
-  image: {
-    url: shopping_default.a
-  },
-  slug: "/products?m_cat=hostel-items"
-}, {
-  id: 5,
-  title: "Sports & Gym",
-  image: {
-    url: gym_default.a
-  },
-  slug: "/products?m_cat=sports-gym"
-}, {
-  id: 6,
-  title: "Stationary",
-  image: {
-    url: stationary_default.a
-  },
-  slug: "/products?m_cat=stationary"
-}, {
-  id: 7,
-  title: "Others",
-  image: {
-    url: shop_default.a
-  },
-  slug: "/products"
-}];
-const EventIconCardsData = [{
-  id: "EventIcon1",
-  title: "Technical",
-  image: {
-    url: technical_default.a
-  },
-  slug: "/events?m_cat=technical"
-}, {
-  id: "EventIcon2",
-  title: "Entrepreneurship",
-  image: {
-    url: enterprenurship_default.a
-  },
-  slug: "/events?m_cat=entrepreneurship"
-}, {
-  id: "EventIcon3",
-  title: "Culture",
-  image: {
-    url: culture_default.a
-  },
-  slug: "/events?m_cat=culture"
-}, {
-  id: "EventIcon4",
-  title: "Sports Events",
-  image: {
-    url: sports_default.a
-  },
-  slug: "/events?m_cat=sports"
-}, {
-  id: "EventIcon5",
-  title: "Education Events",
-  image: {
-    url: book_default.a
-  },
-  slug: "/events?m_cat=books"
-}, {
-  id: "EventIcon6",
-  title: "Library",
-  image: {
-    url: library_default.a
-  },
-  slug: "/events?m_cat=library"
-}];
-const ProductCardsData = [{
-  id: "product1",
-  title: "Immortal Reign",
-  image: {
-    url: product_default.a
-  },
-  collegeName: "Gulzar College of Arts",
-  excerpt: "Lorem ipsum dolor sit consectetuer..................",
-  price: "$15",
-  date: "April 14",
-  categories: [],
-  saved: true
-}, {
-  id: "product2",
-  title: "Immortal Reign",
-  image: {
-    url: product_default.a
-  },
-  collegeName: "Gulzar College of Arts",
-  excerpt: "Lorem ipsum dolor sit consectetuer..................",
-  price: "$15",
-  date: "April 14",
-  categories: [],
-  saved: false
-}, {
-  id: "product3",
-  title: "Immortal Reign",
-  image: {
-    url: product_default.a
-  },
-  collegeName: "Gulzar College of Arts",
-  excerpt: "Lorem ipsum dolor sit consectetuer..................",
-  price: "$15",
-  date: "April 14",
-  categories: [],
-  saved: false
-}, {
-  id: "product4",
-  title: "Immortal Reign",
-  image: {
-    url: product_default.a
-  },
-  collegeName: "Gulzar College of Arts",
-  excerpt: "Lorem ipsum dolor sit consectetuer..................",
-  price: "$15",
-  date: "April 14",
-  categories: [],
-  saved: false
-}, {
-  id: "product5",
-  title: "Immortal Reign",
-  image: {
-    url: product_default.a
-  },
-  collegeName: "Gulzar College of Arts",
-  excerpt: "Lorem ipsum dolor sit consectetuer..................",
-  price: "$15",
-  date: "April 14",
-  categories: [],
-  saved: false
-}, {
-  id: "product6",
-  title: "Immortal Reign",
-  image: {
-    url: product_default.a
-  },
-  collegeName: "Gulzar College of Arts",
-  excerpt: "Lorem ipsum dolor sit consectetuer..................",
-  price: "$15",
-  date: "April 14",
-  categories: [],
-  saved: false
-}];
-const EventCardsData = [{
-  id: "event1",
-  title: "Immortal Reign",
-  image: {
-    url: event_default.a
-  },
-  collegeName: "Gulzar College of Arts",
-  excerpt: "Lorem ipsum dolor sit consectetuer..................",
-  price: "$15",
-  date: "April 14",
-  categories: [],
-  saved: true
-}, {
-  id: "event2",
-  title: "Immortal Reign",
-  image: {
-    url: event_default.a
-  },
-  collegeName: "Gulzar College of Arts",
-  excerpt: "Lorem ipsum dolor sit consectetuer..................",
-  price: "$15",
-  date: "April 14",
-  categories: [],
-  saved: false
-}, {
-  id: "event3",
-  title: "Immortal Reign",
-  image: {
-    url: event_default.a
-  },
-  collegeName: "Gulzar College of Arts",
-  excerpt: "Lorem ipsum dolor sit consectetuer..................",
-  price: "$15",
-  date: "April 14",
-  categories: [],
-  saved: false
-}, {
-  id: "event4",
-  title: "Immortal Reign",
-  image: {
-    url: event_default.a
-  },
-  collegeName: "Gulzar College of Arts",
-  excerpt: "Lorem ipsum dolor sit consectetuer..................",
-  price: "$15",
-  date: "2020-01-06 17:06:41",
-  categories: [],
-  saved: false
-}, {
-  id: "event5",
-  title: "Immortal Reign",
-  image: {
-    url: event_default.a
-  },
-  collegeName: "Gulzar College of Arts",
-  excerpt: "Lorem ipsum dolor sit consectetuer..................",
-  price: "$15",
-  date: "2020-01-06 17:06:41",
-  categories: [],
-  saved: false
-}, {
-  id: "event6",
-  title: "Immortal Reign",
-  image: {
-    url: event_default.a
-  },
-  collegeName: "Gulzar College of Arts",
-  excerpt: "Lorem ipsum dolor sit consectetuer..................",
-  price: "$15",
-  date: "2020-01-06 17:06:41",
-  categories: [],
-  saved: false
-}];
-const OurConceptData = [{
-  id: "concept1",
-  title: "Provocative content for an accounting",
-  image: {
-    url: video1_default.a
-  },
-  video: {
-    url: "https://www.youtube.com/embed/rUWxSEwctFU"
-  },
-  excerpt: "Provocative content for an accounting firm may include six reasons you’re paying too much in tax; why the top line is more important than the bottom line; and how to get your clients to offer to pay you more than you ask.",
-  link: {
-    url: "/coming-soon",
-    name: "Learn More"
-  }
-}, {
-  id: "concept2",
-  title: "Provocative content for an accounting",
-  image: {
-    url: video2_default.a
-  },
-  excerpt: "Provocative content for an accounting firm may include six reasons you’re paying too much in tax; why the top line is more important than the bottom line; and how to get your clients to offer to pay you more than you ask.",
-  collegeName: "Gulzar College of Arts",
-  link: {
-    url: "/static/pdf.pdf",
-    name: "Download Pdf"
-  }
-}];
-const TestimonialData = [{
-  id: "review1",
-  name: "JANE JOHNSONS",
-  image: {
-    url: profile_default.a
-  },
-  rating: 5,
-  review: "Lorem ipsum dolor sit amet, aretent consectetuer adipiscing elit Lorem ipsum dolor sit amet, aretent  consectetuer adipiscing elit. Lorem ipsum dolor sit amet, aretent consectetuer adipiscing elit Lorem ipsum dolor sit amet, aretent  consectetuer adipiscing elit"
-}, {
-  id: "review2",
-  name: "JANE JOHNSONS",
-  image: {
-    url: profile_default.a
-  },
-  rating: 5,
-  review: "Lorem ipsum dolor sit amet, aretent consectetuer adipiscing elit Lorem ipsum dolor sit amet, aretent  consectetuer adipiscing elit. Lorem ipsum dolor sit amet, aretent consectetuer adipiscing elit Lorem ipsum dolor sit amet, aretent  consectetuer adipiscing elit"
-}, {
-  id: "review3",
-  name: "JANE JOHNSONS",
-  image: {
-    url: profile_default.a
-  },
-  rating: 5,
-  review: "Lorem ipsum dolor sit amet, aretent consectetuer adipiscing elit Lorem ipsum dolor sit amet, aretent  consectetuer adipiscing elit. Lorem ipsum dolor sit amet, aretent consectetuer adipiscing elit Lorem ipsum dolor sit amet, aretent  consectetuer adipiscing elit"
-}, {
-  id: "review4",
-  name: "JANE JOHNSONS",
-  image: {
-    url: profile_default.a
-  },
-  rating: 5,
-  review: "Lorem ipsum dolor sit amet, aretent consectetuer adipiscing elit Lorem ipsum dolor sit amet, aretent  consectetuer adipiscing elit. Lorem ipsum dolor sit amet, aretent consectetuer adipiscing elit Lorem ipsum dolor sit amet, aretent  consectetuer adipiscing elit"
-}];
 // EXTERNAL MODULE: ./src/styles/index.js
 var styles = __webpack_require__("InJ6");
 
